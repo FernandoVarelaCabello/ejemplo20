@@ -1,0 +1,26 @@
+[
+    {
+        "nombre":"Fernando",
+        "apellido":"Varela",
+        "telefono":7711341908
+
+    },
+    {
+        "nombre":"Luis Miguel",
+        "apellido":"Castillo Olvera",
+        "telefono":7717897892
+
+    },
+    {
+        "nombre":"Juan Carlos",
+        "apellido":"Ixba Rodriguez",
+        "telefono":7710980986
+
+    },
+    {
+        "nombre":"Josue",
+        "apellido":"Chavez",
+        "telefono":7714564561
+
+    }
+]
